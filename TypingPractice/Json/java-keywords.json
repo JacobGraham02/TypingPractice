@@ -1,0 +1,143 @@
+[
+  {
+    "category": "access-modifiers",
+    "keywords": [
+      "public",
+      "private",
+      "protected",
+      "default"
+    ]
+  },
+  {
+    "category": "non-access-modifiers",
+    "keywords": [
+      "static",
+      "final",
+      "abstract",
+      "synchronized",
+      "volatile",
+      "transient",
+      "native"
+    ]
+  },
+  {
+    "category": "data-types",
+    "keywords": [
+      "byte",
+      "short",
+      "int",
+      "long",
+      "float",
+      "double",
+      "boolean",
+      "char",
+      "void"
+    ]
+  },
+  {
+    "category": "control-flow-statements",
+    "keywords": [
+      "if",
+      "else",
+      "switch",
+      "case",
+      "default",
+      "for",
+      "while",
+      "do",
+      "break",
+      "continue",
+      "return"
+    ]
+  },
+  {
+    "category": "exception-handling",
+    "keywords": [
+      "try",
+      "catch",
+      "finally",
+      "throw",
+      "throws"
+    ]
+  },
+  {
+    "category": "class-related-keywords",
+    "keywords": [
+      "class",
+      "interface",
+      "enum",
+      "extends",
+      "implements",
+      "package",
+      "import"
+    ]
+  },
+  {
+    "category": "object-related-keywords",
+    "keywords": [
+      "this",
+      "super",
+      "new",
+      "instanceof"
+    ]
+  },
+  {
+    "category": "boolean-literals",
+    "keywords": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "category": "null-literal",
+    "keywords": [
+      "null"
+    ]
+  },
+  {
+    "category": "letters",
+    "keywords": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h",
+      "i",
+      "j",
+      "k",
+      "l",
+      "m",
+      "n",
+      "o",
+      "p",
+      "q",
+      "r",
+      "s",
+      "t",
+      "u",
+      "v",
+      "w",
+      "x",
+      "y",
+      "z"
+    ]
+  },
+  {
+    "category": "numbers",
+    "keywords": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  }
+]
